@@ -1,10 +1,18 @@
-function getLocation() {
-    navigator.geolocation.watchPosition(function(position) {
-        printLocation(position.coords.latitude, position.coords.longitude);
+function hereiam(){
+    var num = document.getElementById('input').value;
+    navigator.geolocation.watchPosition(position => {
+        var lat = position.coords.latitude;
+        var lng = position.coords.longitude;
+        ajax('/server', {
+            lat: lat,
+            lng: lng,
+            phoneNum: num,
+        });
     });
 }
 
-function printLocation(lat, lng) {
+function ajax(url, params, callback) {
+    // TODO
     var div = document.getElementById('output');
-    div.innerText = lat + '/' + lng;
-}
+    div.innerText = params.phoneNum + ': ' + params.lat + ', ' + params.lng
+};
