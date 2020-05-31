@@ -1,13 +1,24 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>정기런 출석</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
         <script src="hereiam.js"></script>
     </head>
     <body>
-        <label for="input">당신의 휴대폰 뒷자리는?</label><br>
-        <input id="input" type="text" /><br>
-        <button onclick="hereiam()">나 여기있어요</button><br>
-        <div id="output"></div>
+
+        <div class="flex-box">
+            <img id="logo" src="/BRCassemble/res/logo.png" width="120"/>
+        </div>
+        <div class="flex-box">
+            <h3>분당러닝크루 77th 정기런</h3>
+            <span>2020.05.31 20:00</span>
+            <span>황새울공원</span>
+        </div>
+        <div id="loginbox" class="flex-box">
+            <button id="phone" onclick="phone()">📞휴대폰 번호로 로그인</button>
+            <button id="loginBtn" onclick="kakao()">💬카카오 계정으로 로그인</button>
+        </div>
     </body>
 </html>
