@@ -1,0 +1,202 @@
+[
+    {
+     "name": "Bulbasaur",
+     "phonenum": 1000
+    },
+    {
+     "name": "Ivysaur",
+     "phonenum": 1001
+    },
+    {
+     "name": "Venusaur",
+     "phonenum": 1002
+    },
+    {
+     "name": "Charmander",
+     "phonenum": 1003
+    },
+    {
+     "name": "Charmeleon",
+     "phonenum": 1004
+    },
+    {
+     "name": "Charizard",
+     "phonenum": 1005
+    },
+    {
+     "name": "Squirtle",
+     "phonenum": 1006
+    },
+    {
+     "name": "Wartortle",
+     "phonenum": 1007
+    },
+    {
+     "name": "Blastoise",
+     "phonenum": 1008
+    },
+    {
+     "name": "Caterpie",
+     "phonenum": 1009
+    },
+    {
+     "name": "Metapod",
+     "phonenum": 1010
+    },
+    {
+     "name": "Butterfree",
+     "phonenum": 1011
+    },
+    {
+     "name": "Weedle",
+     "phonenum": 1012
+    },
+    {
+     "name": "Kakuna",
+     "phonenum": 1013
+    },
+    {
+     "name": "Beedrill",
+     "phonenum": 1014
+    },
+    {
+     "name": "Pidgey",
+     "phonenum": 1015
+    },
+    {
+     "name": "Pidgeotto",
+     "phonenum": 1016
+    },
+    {
+     "name": "Pidgeot",
+     "phonenum": 1017
+    },
+    {
+     "name": "Rattata",
+     "phonenum": 1018
+    },
+    {
+     "name": "Raticate",
+     "phonenum": 1019
+    },
+    {
+     "name": "Spearow",
+     "phonenum": 1020
+    },
+    {
+     "name": "Fearow",
+     "phonenum": 1021
+    },
+    {
+     "name": "Ekans",
+     "phonenum": 1022
+    },
+    {
+     "name": "Arbok",
+     "phonenum": 1023
+    },
+    {
+     "name": "Pikachu",
+     "phonenum": 1024
+    },
+    {
+     "name": "Raichu",
+     "phonenum": 1025
+    },
+    {
+     "name": "Sandshrew",
+     "phonenum": 1026
+    },
+    {
+     "name": "Sandslash",
+     "phonenum": 1027
+    },
+    {
+     "name": "Nidoran♀",
+     "phonenum": 1028
+    },
+    {
+     "name": "Nidorina",
+     "phonenum": 1029
+    },
+    {
+     "name": "Nidoqueen",
+     "phonenum": 1030
+    },
+    {
+     "name": "Nidoran♂",
+     "phonenum": 1031
+    },
+    {
+     "name": "Nidorino",
+     "phonenum": 1032
+    },
+    {
+     "name": "Nidoking",
+     "phonenum": 1033
+    },
+    {
+     "name": "Clefairy",
+     "phonenum": 1034
+    },
+    {
+     "name": "Clefable",
+     "phonenum": 1035
+    },
+    {
+     "name": "Vulpix",
+     "phonenum": 1036
+    },
+    {
+     "name": "Ninetales",
+     "phonenum": 1037
+    },
+    {
+     "name": "Jigglypuff",
+     "phonenum": 1038
+    },
+    {
+     "name": "Wigglytuff",
+     "phonenum": 1039
+    },
+    {
+     "name": "Zubat",
+     "phonenum": 1040
+    },
+    {
+     "name": "Golbat",
+     "phonenum": 1041
+    },
+    {
+     "name": "Oddish",
+     "phonenum": 1042
+    },
+    {
+     "name": "Gloom",
+     "phonenum": 1043
+    },
+    {
+     "name": "Vileplume",
+     "phonenum": 1044
+    },
+    {
+     "name": "Paras",
+     "phonenum": 1045
+    },
+    {
+     "name": "Parasect",
+     "phonenum": 1046
+    },
+    {
+     "name": "Venonat",
+     "phonenum": 1047
+    },
+    {
+     "name": "Venomoth",
+     "phonenum": 1048
+    },
+    {
+     "name": "Diglett",
+     "phonenum": 1049
+    }
+]

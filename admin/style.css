@@ -1,0 +1,22 @@
+img#logo {
+    animation: rotation 3s infinite linear;
+}
+
+.flex-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        filter: invert(24%) sepia(87%) saturate(5211%) hue-rotate(267deg) brightness(91%) contrast(95%);
+        transform: rotate(359deg);
+    }
+}
+
+div#output {
+    border: 1px solid black;
+}
