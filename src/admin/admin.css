@@ -1,0 +1,14 @@
+@media (prefers-reduced-motion: no-preference) {
+    .spin {
+        animation: App-logo-spin infinite 8s linear;
+    }
+}
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+        filter: invert(24%) sepia(87%) saturate(5211%) hue-rotate(267deg) brightness(91%) contrast(95%);
+    }
+}
